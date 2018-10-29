@@ -5,7 +5,7 @@ The prime factors of 13195 are 5, 7, 13 and 29.
 What is the largest prime factor of the number 600851475143 ?
 */
 
-/*  this code works on int type input. I couldnt find how can i change for loop iteration in Golang. Because the number is int64
+/*  this code works on int type input. I couldnt find how can i change for loop iteration type in Golang. Because the number is int64
 
 */
 
